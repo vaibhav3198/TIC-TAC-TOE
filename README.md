@@ -11,3 +11,6 @@ A TIC-TAC-TOE game with GUI built in C++ programming language.
   4. Follow up by executing the command "./TICTACTOE"
 ## Dependencies
 conio.h header file
+
+## Developer
+Vaibhav Agasti
